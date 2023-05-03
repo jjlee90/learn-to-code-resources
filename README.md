@@ -18,10 +18,7 @@
 
 ## <font size="6">Developer Podcasts</font>
 * [Scrimba Podcast](https://open.spotify.com/show/1oJamVudy2v3oSJTejUyus)
-
 * [CodeNewbie](https://open.spotify.com/show/2T2OwucPOy2uDG1CUsjIMB)
-
 * [Stackoverflow Podcast](https://open.spotify.com/show/0e5eoM6w7eW9Wu7wMA04Tr)
-
 * [LogRocket](https://open.spotify.com/show/6oFuKu89C9X1wQ7bT0QEM2)
 
