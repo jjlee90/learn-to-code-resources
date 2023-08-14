@@ -11,7 +11,7 @@
 * [Flexbox Froggy](https://flexboxfroggy.com/) - game to learn flexbox
 
 ## <font size="6">Youtube</font>
-* [Kevin Powell] (https://www.youtube.com/results?search_query=kevin+powell)
+* [Kevin Powell](https://www.youtube.com/results?search_query=kevin+powell)
 * [Web Dev Simplified](https://www.youtube.com/results?search_query=web+dev+simplified)
 * [Free Code Camp](https://www.youtube.com/@freecodecamp)
 * [Coder Coder](https://www.youtube.com/@TheCoderCoder/videos)
