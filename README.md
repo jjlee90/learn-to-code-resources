@@ -5,9 +5,23 @@
 * [Scrimba](https://scrimba.com/)
 * [The Odin Project](https://www.theodinproject.com/)
 
+## <font size="6">HTML & CSS</font>
+* [W3 Schools](https://www.w3schools.com/)
+* [CSS Tricks](https://css-tricks.com/)
+* [Flexbox Froggy](https://flexboxfroggy.com/) - game to learn flexbox
+
+## <font size="6">Youtube</font>
+* [Kevin Powell] (https://www.youtube.com/results?search_query=kevin+powell)
+* [Web Dev Simplified](https://www.youtube.com/results?search_query=web+dev+simplified)
+* [Free Code Camp](https://www.youtube.com/@freecodecamp)
+* [Coder Coder](https://www.youtube.com/@TheCoderCoder/videos)
+* [Traversy Media](https://www.youtube.com/@TraversyMedia)
+* [Code with Ania Kubow](https://www.youtube.com/@AniaKubow)
+
 ## <font size="6">Top Resources for Developers</font>
 * [Stackoverflow](https://stackoverflow.com/)
 * [Github](https://github.com/)
+* [MDN Docs](https://developer.mozilla.org/en-US/docs/Web/HTML)
 * [GeekforGeeks](https://www.geeksforgeeks.org/)
 * [Log Rocket](https://logrocket.com/)
 * [Medium](https://medium.com/)
